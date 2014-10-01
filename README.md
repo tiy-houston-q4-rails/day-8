@@ -3,6 +3,9 @@ Week 2 Lab
 
 Create a blackjack game
 
+[Play Blackjack](http://freeblackjackdoc.com/blackjack-game.htm)  
+[Info on Blackjack](https://en.wikipedia.org/wiki/Blackjack)
+
 0. classes you should have: hand, card, game
 0. don't consider Aces as possible 1's ... they are always 11s
 0. This is a 2 hand game (dealer and player)
